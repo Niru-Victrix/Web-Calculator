@@ -11,6 +11,6 @@ arr.forEach(button => {
         }
         
         string += e.target.innerHTML;
-        input.value
+        input.value = string;
     })
 })
