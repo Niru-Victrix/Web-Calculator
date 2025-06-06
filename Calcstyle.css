@@ -16,6 +16,13 @@ body{
     background: linear-gradient(45deg, #0a0a0a, #3a4452);
 }
 
+.hero-name{
+    position: absolute;
+}
+.hero-user{
+    color: blue;
+}
+
 .calculator{
     border: 1px solid #717377;
     padding: 20px;
