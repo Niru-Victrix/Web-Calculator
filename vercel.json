@@ -1,6 +1,9 @@
 {
-    "array": {
-        "source": "/(.*)",
+    "rewrites": [
+        {
+       "source": "/(.*)",
         "destination": "/"
-    }
+    } 
+    ]
+        
 }
